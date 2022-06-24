@@ -8,20 +8,26 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Table of contents**
   * About
-  * Portfolio Projects
-    * 
+  * Portfolio Projects (#portfolio-project)
+    * Market Basket Analysis
+    * Sequential Analysis
+    * Analyze International Debt Statistics
+    * Analyzing American Baby Name Trends
+    * Mobile Games A/B Testing with Cookie Cats
+    * Predicting Credit Card Approvals
+    * Extract Stock Sentiment from News Headlines
+    * A/B testing on Udacity Free Trial Screener
+    * Simple Chatty Bot
     * Looker Lab
-    * 
-  * Study Projects
-    * learn xx 
+  * Study Projects (#study-project)
   * [Tableau Vizzes](#tableau-vizzes)
   * [Certificates](#certificates)
   * [Contacts](#contact)
 
-## Portfolio Projects ##
+## Portfolio Projects ## <a name="portfolio-project"></a> 
 In this section I will demonstrate some of my proudest data analytics projects and describe the techniques used to solve each problem.
 
-## Study Projects ##
+## Study Projects ## <a name="study-project"></a> 
  * [Harvard Data Science]
    syllabus | Skills 
    ------------- | -------------
@@ -35,8 +41,11 @@ In this section I will demonstrate some of my proudest data analytics projects a
    Capstone Project | Content Cell
  * [Neuro Imaging]
 
-## Tableau Vizzes ##<a name="tableau-vizzes"></a>    
-## Certificates ##<a name="certificates"></a>    
+## Tableau Vizzes ## <a name="tableau-vizzes"></a>   
+ * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
+ * [COVID-19 pandemic]
+ * [Google Merchandise Sales Performance]
+## Certificates ## <a name="certificates"></a>    
 I may not graduate from a Canadian university, but I did put a lot of my free time studying for Top-notch big data certificates as mentioned below.  
  * [Tableau Desktop Specialist](https://www.credly.com/badges/b4d09a7b-5b61-4af2-80e5-e736ece7017b/public_url)
  * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url)
@@ -45,5 +54,5 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
  * [CRM Analytics Data Preparation Specialist]
  * [CRM Analytics and Einstein Discovery Insights Specialist]
 
-## Contacts ##<a name="contact"></a>    
+## Contacts ## <a name="contact"></a>    
 Email: natnapin20@gmail.com
