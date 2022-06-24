@@ -8,18 +8,29 @@ This is a repository to showcase skills, share projects and track my progress in
 
 Table of contents
 About
-  Portfolio Projects
-  - Project xxx
-  Study Projects
-  - learn xx 
-  Tableau Vizzes [here](##Tableau-Vizzes)
-  (/n)Certificates
-  Contacts
+  - Portfolio Projects
+    - Project xxx
+  - Study Projects
+    - learn xx 
+  - Tableau Vizzes [here](#tableau-vizzes)
+  - Certificates
+  - Contacts
 
 ##Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ##Study Projects
+
+
+
+
+
+
+
+
+
+
+
 
 
 
