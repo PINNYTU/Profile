@@ -12,7 +12,7 @@ About
   - Project xxx
   Study Projects
   - learn xx 
-  Tableau Vizzes [here](#place-2)
+  Tableau Vizzes [here](##Tableau-Vizzes)
   (/n)Certificates
   Contacts
 
@@ -20,6 +20,16 @@ About
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ##Study Projects
+
+
+
+
+
+
+
+
+
+
 
 ##Tableau Vizzes
 ##Certificates
