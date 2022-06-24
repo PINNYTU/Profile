@@ -13,7 +13,7 @@ About
   Study Projects
   - learn xx 
   Tableau Vizzes [here](#place-2)
-  Certificates
+  (/n)Certificates
   Contacts
 
 ##Portfolio Projects
