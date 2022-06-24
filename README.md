@@ -47,7 +47,7 @@ In this section I will demonstrate some of my proudest data analytics projects a
 ## Certificates <a name="certificates"></a>    
 I may not graduate from a Canadian university, but I did put a lot of my free time studying for Top-notch big data certificates as mentioned below.  
  * [Tableau Desktop Specialist](https://www.credly.com/badges/b4d09a7b-5b61-4af2-80e5-e736ece7017b/public_url)
- * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url){:target="_blank" rel="noopener"}
+ * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url {:target="_blank" rel="noopener"})
  * [Professional Data Analyst Certificate]
  * [Excel/VBA for Creative Problem Solving Specialization]
  * [CRM Analytics Data Preparation Specialist]
