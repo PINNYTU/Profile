@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Table of contents**
   * About
-  * Portfolio Projects (#portfolio-project)
+  * [Portfolio Projects](#portfolio-project)
     * Market Basket Analysis
     * Sequential Analysis
     * Analyze International Debt Statistics
@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     * A/B testing on Udacity Free Trial Screener
     * Simple Chatty Bot
     * Looker Lab
-  * Study Projects (#study-project)
+  * [Study Projects](#study-project)
   * [Tableau Vizzes](#tableau-vizzes)
   * [Certificates](#certificates)
   * [Contacts](#contact)
