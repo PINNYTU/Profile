@@ -29,7 +29,7 @@ In this section I will demonstrate some of my proudest data analytics projects a
 
 ## Study Projects <a name="study-project"></a> 
  * [Harvard Data Science](https://courses.edx.org/certificates/763db212457541059ef1c96e770e9572)
-   syllabus | Skills 
+   Syllabus | Skills 
    ------------- | -------------
    R Basic  | Foundational R programming concepts such as data types, vectors arithmetic, data wrangling using dplyr, and making plots
    Probability | Discrete/Continuous Probability
