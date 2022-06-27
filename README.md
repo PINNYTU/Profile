@@ -51,7 +51,8 @@ In this section I will demonstrate some of my proudest data analytics projects a
    Wrangling | Tidy Data, Dates, Times, and Text Mining
    Linear Regression | Linear Models, Confounding
    Machine Learning | Prediction, Classification
- * [Neuro Imaging]
+ * [Introduction to Neurohacking In R](https://coursera.org/share/cc6f39501d6e1abe035f6256415d76f5)
+ * [Bioinformatic Methods I](https://coursera.org/share/f340bfa01225601624320946c52811a6)
 
 ## Contacts <a name="contact"></a>    
 Email: natnapin20@gmail.com
