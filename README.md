@@ -8,6 +8,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Table of contents**
   * [About](#about)
+  * [Certificates](#certificates)
+  * [Tableau Dashboards](#tableau-vizzes)
   * [Portfolio Projects](#portfolio-project)
     * Market Basket Analysis
     * Sequential Analysis
@@ -20,10 +22,21 @@ This is a repository to showcase skills, share projects and track my progress in
     * Simple Chatty Bot
     * Looker Lab
   * [Study Projects](#study-project)
-  * [Tableau Dashboards](#tableau-vizzes)
-  * [Certificates](#certificates)
   * [Contacts](#contact)
 
+## Certificates <a name="certificates"></a>    
+I may not graduate from a Canadian university, but I did put a lot of my free time studying for Top-notch big data certificates as mentioned below.  
+ * [Tableau Desktop Specialist](https://www.credly.com/badges/b4d09a7b-5b61-4af2-80e5-e736ece7017b/public_url)
+ * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url)
+ * [CRM Analytics Data Preparation Specialist](https://trailblazer.me/id/narchint)
+ * [Professional Data Analyst Certificate]
+ * [Excel/VBA for Creative Problem Solving Specialization]
+
+## Tableau Dashboards <a name="tableau-vizzes"></a>   
+ * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
+ * [COVID-19 pandemic]
+ * [Google Merchandise Sales Performance]
+ 
 ## Portfolio Projects <a name="portfolio-project"></a> 
 In this section I will demonstrate some of my proudest data analytics projects and describe the techniques used to solve each problem.
 
@@ -39,19 +52,6 @@ In this section I will demonstrate some of my proudest data analytics projects a
    Linear Regression | Linear Models, Confounding
    Machine Learning | Prediction, Classification
  * [Neuro Imaging]
-
-## Tableau Dashboards <a name="tableau-vizzes"></a>   
- * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
- * [COVID-19 pandemic]
- * [Google Merchandise Sales Performance]
-## Certificates <a name="certificates"></a>    
-I may not graduate from a Canadian university, but I did put a lot of my free time studying for Top-notch big data certificates as mentioned below.  
- * [Tableau Desktop Specialist](https://www.credly.com/badges/b4d09a7b-5b61-4af2-80e5-e736ece7017b/public_url)
- * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url)
- * [CRM Analytics Data Preparation Specialist](https://trailblazer.me/id/narchint)
- * [Professional Data Analyst Certificate]
- * [Excel/VBA for Creative Problem Solving Specialization]
-
 
 ## Contacts <a name="contact"></a>    
 Email: natnapin20@gmail.com
