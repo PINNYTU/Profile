@@ -2,7 +2,7 @@
 ---
 
 ## About <a name="about"></a> 
-Hi, I'm Pinny!I am a hard working "Data Practitioner" who loves to get my hand dirty with all the complex data that I can find. Being able to understand the data, process it, extract value from it, and come out with actionable insights, are what truly matters to me. It has always been my work ethic to explain the findings in the easiest way that non-technical users are able to understand. Therefore, I have a proven record of creating the most user friendly dashboard. Currently, I am working on my visualization and data story telling skills to get my Tableau Data Analyst Certificate and land a data-related job in Canada. 
+Hi, I'm Pinny!I am a hard working "Data Practitioner" who loves to get my hand dirty with all the complex data that I can find. Being able to understand the data, process it, extract value from it, and come out with actionable insights, are what truly matters to me. It has always been my work ethic to explain the findings in the easiest way that non-technical users are able to understand. Being able to utilize Tableau/Power BI also help me with all presentations. Therefore, I have a proven record of creating the most user friendly dashboard. Currently, I am working on my visualization and data story telling skills to get my Tableau Data Analyst Certificate and land a data-related job in Canada. 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
