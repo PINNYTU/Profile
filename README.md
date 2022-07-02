@@ -11,6 +11,8 @@ This is a repository to showcase skills, share projects and track my progress in
   * [Certificates](#certificates)
   * [Tableau Dashboards](#tableau-vizzes)
   * [Portfolio Projects](#portfolio-project)
+    * Looker Lab
+    * Simple Chatty Bot
     * Market Basket Analysis
     * Sequential Analysis
     * Analyze International Debt Statistics
@@ -19,8 +21,6 @@ This is a repository to showcase skills, share projects and track my progress in
     * Predicting Credit Card Approvals
     * Extract Stock Sentiment from News Headlines
     * A/B testing on Udacity Free Trial Screener
-    * Simple Chatty Bot
-    * Looker Lab
   * [Study Projects](#study-project)
   * [Contacts](#contact)
 
