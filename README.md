@@ -34,8 +34,9 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
 
 ## Tableau Dashboards <a name="tableau-vizzes"></a>   
  * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
+ * [Travel Insurance]
  * [COVID-19 pandemic]
- * [Google Merchandise Sales Performance]
+
  
 ## Portfolio Projects <a name="portfolio-project"></a> 
 In this section I will demonstrate some of my proudest data analytics projects and describe the techniques used to solve each problem.
