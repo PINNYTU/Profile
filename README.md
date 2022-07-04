@@ -54,8 +54,8 @@ In this section I will demonstrate some of my proudest data analytics projects a
    Linear Regression | Linear Models, Confounding
    Machine Learning | Prediction, Classification
  * [Introduction to Neurohacking In R](https://coursera.org/share/cc6f39501d6e1abe035f6256415d76f5)
-    Working with the DICOM and NIfTI data 
+   > Working with the DICOM and NIfTI data 
  * [Bioinformatic Methods I](https://coursera.org/share/f340bfa01225601624320946c52811a6)
-
+   > Sequencing of the human genome and gene expression surveys using RNA-seq, microarrays and other technologies 
 ## Contacts <a name="contact"></a>    
 Email: natnapin20@gmail.com
