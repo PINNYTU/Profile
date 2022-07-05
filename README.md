@@ -41,7 +41,10 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
 ## Portfolio Projects <a name="portfolio-project"></a> 
 In this section I will demonstrate some of my proudest data analytics projects and describe the techniques used to solve each problem.
  * ### Market Basket Analysis 
- * ### Mobile Games A/B Testing with Cookie Cats
+   > Problems: Would like to know the brands that La Mer members purchase with.
+   > Techniques: Apriori Algorithm in Association Rule Learning
+   > Output: Brands like Lancome, Clarins, and Estee Lauder show the highest score respectively. 
+ * ### A/B testing on Udacity Free Trial Screener
  
 ## Study Projects <a name="study-project"></a> 
  * [Harvard Data Science](https://courses.edx.org/certificates/763db212457541059ef1c96e770e9572)
