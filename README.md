@@ -42,7 +42,9 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
 In this section I will demonstrate some of my proudest data analytics projects and describe the techniques used to solve each problem.
  * ### Market Basket Analysis 
    > Problems: Would like to know the brands that La Mer members purchase with.
-   > Techniques: Apriori Algorithm in Association Rule Learning
+   
+   > Techniques: Apriori Algorithm in Association Rule Learning.
+   
    > Output: Brands like Lancome, Clarins, and Estee Lauder show the highest score respectively. 
  * ### A/B testing on Udacity Free Trial Screener
  
