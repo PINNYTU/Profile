@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
     * Analyzing American Baby Name Trends
     * Mobile Games A/B Testing with Cookie Cats
     * Predicting Credit Card Approvals
-    * Extract Stock Sentiment from News Headlines
+    * Optimizing Online Sports Retail Revenue
     * A/B testing on Udacity Free Trial Screener
   * [Study Courses](#study-courses)
   * [Contacts](#contact)
