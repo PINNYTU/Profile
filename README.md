@@ -34,7 +34,7 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
 
 ## Tableau Dashboards <a name="tableau-vizzes"></a>   
  * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
- * [Travel Insurance]
+ * [Travel Insurance](https://public.tableau.com/app/profile/natnapin.arch.int/viz/TravelInsuranceCaseStudy_16572178406760/Story1)
  * [COVID-19 pandemic]
 
  
