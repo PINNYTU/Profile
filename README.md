@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     * Predicting Credit Card Approvals
     * Extract Stock Sentiment from News Headlines
     * A/B testing on Udacity Free Trial Screener
-  * [Study Projects](#study-project)
+  * [Study Courses](#study-courses)
   * [Contacts](#contact)
 
 ## Certificates <a name="certificates"></a>    
@@ -46,9 +46,18 @@ In this section I will demonstrate some of my proudest data analytics projects a
    > Techniques: Apriori Algorithm in Association Rule Learning.
    
    > Output: Brands like Lancome, Clarins, and Estee Lauder show the highest score respectively. 
+ * ### Travel Insurance Marketing Strategy 
+   > Problems: Would like to if there are differences in travel habbits between customers and non-customers 
+   
+   > Techniques: 
+      * Clean data:  Use excel to remove duplicates/ check for wrong data format/ replace null to 0 in flag and 'N/A' in string 
+      * Use Descriptive/Diagnostic analysis: Thnk of hypothesis and 
+      * Reporting and visualization: Came up with story board view based on the hypothesis and used Tableau to come up with graphs. 
+      * Data validation/Sanity Check: Recheck the data accuracy in by query check in SQL and compared the results with the graph from Tableau. 
+      * Presentation : In this scenario the audiences is the CEO, so I only mentioned the key messages and the points that are "Must Know" and leave out the "Good to know" 
  * ### A/B testing on Udacity Free Trial Screener
  
-## Study Projects <a name="study-project"></a> 
+## Study Courses <a name="study-courses"></a> 
  * [Harvard Data Science](https://courses.edx.org/certificates/763db212457541059ef1c96e770e9572)
    Syllabus | Skills 
    ------------- | -------------
