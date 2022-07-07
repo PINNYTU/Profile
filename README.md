@@ -51,7 +51,7 @@ In this section I will demonstrate some of my proudest data analytics projects a
    
    > Techniques: 
       * Clean data:  Use excel to remove duplicates/ check for wrong data format/ replace null to 0 in flag and 'N/A' in string 
-      * Use Descriptive/Diagnostic analysis: Thnk of hypothesis and 
+      * Use Descriptive/Diagnostic analysis: Think of hypothesis/factors that increases the chance of customers buying insurance. Then came up with a strategy plan to retain existing/acquire new customers. 
       * Reporting and visualization: Came up with story board view based on the hypothesis and used Tableau to come up with graphs. 
       * Data validation/Sanity Check: Recheck the data accuracy in by query check in SQL and compared the results with the graph from Tableau. 
       * Presentation : In this scenario the audiences is the CEO, so I only mentioned the key messages and the points that are "Must Know" and leave out the "Good to know" 
