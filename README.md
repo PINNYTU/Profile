@@ -48,7 +48,7 @@ In this section I will demonstrate some of my proudest data analytics projects a
    
    > Output: Brands like Lancome, Clarins, and Estee Lauder show the highest score respectively. 
  * ### Travel Insurance Marketing Strategy 
-   > Problems: Would like to if there are differences in travel habbits between customers and non-customers 
+   > Problems: Would like to if there are differences in travel habbits between customers and non-customers. 
    
    > Techniques: 
       * Clean data:  Use excel to remove duplicates/ check for wrong data format/ replace null to 0 in flag and 'N/A' in string. 
