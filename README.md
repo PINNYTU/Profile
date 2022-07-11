@@ -56,6 +56,8 @@ In this section I will demonstrate some of my proudest data analytics projects a
       * Reporting and visualization: Came up with story board view based on the hypothesis and used Tableau to come up with graphs. 
       * Data validation/Sanity Check: Recheck the data accuracy in by query check in SQL and compared the results with the graph from Tableau. 
       * Presentation : In this scenario the audience is the CEO. Therfore, in my attempt to be considerate of their time I only mentioned the key messages and the points that are "Must Know" and leave out the "Good to know". 
+     
+   > Output: Get a better understanding of their customers and able to come up with personalizaed messages to retain and acquire new customers. Travel aborad is the key that customers purchase travel insurance.   
  * ### A/B testing on Udacity Free Trial Screener
  
 ## Study Courses <a name="study-courses"></a> 
