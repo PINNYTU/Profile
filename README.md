@@ -60,8 +60,6 @@ In this section I will demonstrate some of my proudest data analytics projects a
    > Output: Get a better understanding of their customers and able to come up with personalizaed messages to retain and acquire new customers. Travel aborad is the key that customers purchase travel insurance.   
    
  <img width="1461" alt="Screen Shot 2022-07-11 at 4 16 46 PM" src="https://user-images.githubusercontent.com/41849266/178350645-733c7238-0db6-438b-a04f-55e900a3d9ee.png">
-   
- * ### A/B testing on Udacity Free Trial Screener
  
 ## Study Courses <a name="study-courses"></a> 
  * [Harvard Data Science](https://courses.edx.org/certificates/763db212457541059ef1c96e770e9572)
