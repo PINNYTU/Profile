@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   * [Tableau Dashboards](#tableau-vizzes)
   * [Portfolio Projects](#portfolio-project)
     * Looker Lab
+    * CRM Salesforce Analytics Superbadge
     * Simple Chatty Bot
     * Market Basket Analysis
     * Sequential Analysis
