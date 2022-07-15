@@ -30,7 +30,7 @@ I may not graduate from a Canadian university, but I did put a lot of my free ti
  * [Google Data Analystics](https://www.credly.com/badges/d25963e3-104a-43f0-84d1-7ddb968a730a/public_url)
  * [CRM Analytics Data Preparation Specialist](https://trailblazer.me/id/narchint)
  * [Excel/VBA for Creative Problem Solving Specialization Certified by Coursera](https://coursera.org/share/e247bf2671fbbdd021ee038beacb0e39)
- * [Professional Data Analyst Certificate Certified by Datacamp](https://www.datacamp.com/profile/ff42f37a281ac8f626672ca1f284e2b0)
+ * [Professional Data Analyst Certificate Certified by Datacamp](https://www.datacamp.com/certificate/DA0011171447085)
 
 ## Tableau Dashboards <a name="tableau-vizzes"></a>   
  * [Interactive Resume](https://public.tableau.com/app/profile/natnapin.arch.int/viz/NATNAPIN-INTERACTIVERESUME/Dashboard13)
